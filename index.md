@@ -6,5 +6,6 @@ LinkClass
 Santiago, Chile
 +56962460766
 contacto.linkclass@gmail.com
+
 ---
 
